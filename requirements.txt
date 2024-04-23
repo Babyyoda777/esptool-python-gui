@@ -1,7 +1,7 @@
 altgraph==0.17
 certifi==2020.6.20
 ecdsa==0.16.0
-esptool==2.8
+esptool==4.7
 macholib==1.14
 modulegraph==0.18
 numpy==1.22.0
