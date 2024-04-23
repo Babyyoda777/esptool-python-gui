@@ -1,0 +1,4 @@
+([('Yo-Yo Machines Firmware Uploader',
+   '/Users/babyyoda777/Downloads/esptool-python-gui-master/dist/Yo-Yo Machines '
+   'Firmware Uploader',
+   'EXECUTABLE')],)

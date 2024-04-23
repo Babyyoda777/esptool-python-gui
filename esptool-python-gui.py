@@ -16,7 +16,7 @@ if not os.environ.get('PYTHONHTTPSVERIFY', '') and getattr(ssl, '_create_unverif
 
 server_projects_url = 'https://irs-socket-server.herokuapp.com/projects'
 
-esptool_options = ['--chip', 'esp32',
+esptool_options = ['--chip', 'esp32s2',
                    '--port', '/dev/cu.myserial',
                    '--baud', '921600',
                    '--before', 'default_reset',

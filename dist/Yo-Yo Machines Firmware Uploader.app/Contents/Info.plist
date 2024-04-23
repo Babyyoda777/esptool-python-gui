@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Yo-Yo Machines Firmware Uploader</string>
+	<key>CFBundleExecutable</key>
+	<string>Yo-Yo Machines Firmware Uploader</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-ef3724d45921c75ed352ff9ccf1710af55452f9ccde377b664e89f00b65993a3.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>Yo-Yo Machines Firmware Uploader</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Yo-Yo Machines Firmware Uploader</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
